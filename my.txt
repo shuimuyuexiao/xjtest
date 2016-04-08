@@ -1,2 +1,3 @@
 wo jiu shi xiang ni
 int b = 2;
+int a = 1;
