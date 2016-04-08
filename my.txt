@@ -1,1 +1,2 @@
 wo jiu shi xiang ni
+int b = 2;
